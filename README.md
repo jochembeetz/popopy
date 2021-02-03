@@ -15,3 +15,14 @@ In the project folder run:
 Open:
 
 http://localhost:5000/vacancies
+
+
+Operations:
+
+- Get /Vacancies
+- Post /Vacancies
+
+- Get /Vacancies/:id
+- Post /Vacancies/:id
+- Patch /Vacancies/:id
+- Delete /Vacancies/:id
