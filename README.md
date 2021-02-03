@@ -1,5 +1,10 @@
 # popopy
 
+Install python from Python.org
+AND
+Install python from Windows store
+
+
 Clone this project
 
 In the project folder run: 
