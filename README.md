@@ -10,6 +10,7 @@ Clone this project
 In the project folder run: 
 
 - pip install -r requirements.txt
+-  & ./env/Scripts/Activate.ps1
 - python main.py
 
 Open:
