@@ -1,8 +1,8 @@
 # popopy
 
-Install python from Python.org
+Install python 3.9 from Python.org
 AND
-Install python from Windows store
+Install python 3.9 from Windows store
 
 
 Clone this project
