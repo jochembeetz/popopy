@@ -14,7 +14,6 @@ class Vacancy(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     title = db.Column(db.String(50))
     description = db.Column(db.String(255))
-
     def __repr__(self):
         return '<Vacancy %s>' % self.title
 
